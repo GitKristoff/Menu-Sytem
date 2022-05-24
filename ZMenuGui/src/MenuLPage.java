@@ -14,7 +14,6 @@ public class MenuLPage implements ActionListener{
 	JLabel label4 = new JLabel("Dessert");
 	JLabel label5 = new JLabel("Snacks");
 	JCheckBox a1, a2, a3, b1, b2, b3, c1,c2,c3, d1,d2,d3;
-	JTextField Jt = new JTextField();
 	int quantity;
 	
 	MenuLPage(){
