@@ -13,7 +13,9 @@ Instructions to run this project.
 * You can also unchecked the product you do not want.
 
 Authors of this project
+
 BSIT I - BLOCK II
+
 Members:
 * Jacille A. Gabello
 * Angelyn Calonia
